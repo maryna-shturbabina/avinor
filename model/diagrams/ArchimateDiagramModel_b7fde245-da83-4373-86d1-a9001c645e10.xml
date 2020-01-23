@@ -25,6 +25,17 @@
           xsi:type="archimate:Location"
           href="Location_82164f0b-4d8c-4bf5-a9f0-ab66e62c79c6.xml#82164f0b-4d8c-4bf5-a9f0-ab66e62c79c6"/>
     </children>
+    <children
+        xsi:type="archimate:DiagramModelGroup"
+        id="328a0d35-c3a6-4c97-9575-bfc400a0b22c"
+        name="Extenda"
+        textAlignment="1">
+      <bounds
+          x="12"
+          y="48"
+          width="301"
+          height="217"/>
+    </children>
   </children>
   <children
       xsi:type="archimate:DiagramModelGroup"
