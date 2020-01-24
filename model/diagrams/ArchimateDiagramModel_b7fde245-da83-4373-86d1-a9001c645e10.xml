@@ -35,6 +35,32 @@
           y="48"
           width="301"
           height="217"/>
+      <children
+          xsi:type="archimate:DiagramModelArchimateObject"
+          id="996d9758-094a-4cb6-82e9-59ede7344829"
+          type="1">
+        <bounds
+            x="12"
+            y="36"
+            width="133"
+            height="25"/>
+        <archimateElement
+            xsi:type="archimate:ApplicationComponent"
+            href="ApplicationComponent_58659e44-8a22-4bb2-9347-88d4d89a6cb9.xml#58659e44-8a22-4bb2-9347-88d4d89a6cb9"/>
+      </children>
+      <children
+          xsi:type="archimate:DiagramModelArchimateObject"
+          id="346ca203-299a-4830-91f8-c02563a6f391"
+          type="1">
+        <bounds
+            x="12"
+            y="72"
+            width="133"
+            height="25"/>
+        <archimateElement
+            xsi:type="archimate:ApplicationComponent"
+            href="ApplicationComponent_2dfa2277-03aa-430d-9593-ebda1eb5efec.xml#2dfa2277-03aa-430d-9593-ebda1eb5efec"/>
+      </children>
     </children>
   </children>
   <children
